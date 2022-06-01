@@ -155,8 +155,13 @@
 
 ![GitHub SSH Key result](screenshots/74.png)
 
-- Quand vous ferez votre premier commit, vous devrez autoriser la communication entre VSCode et GitHub :
+- Quand vous ferez votre premier commit, vous devrez autoriser la communication entre Git et GitHub, choisissez la connexion dans le navigateur :
 
-![Allow connexion between VSCode & GitHub](screenshots/23.png)
+![](screenshots/75.png)
+
+- Ça marche :
+
+![](screenshots/76.png)
+
 
 - 🎉 C'est terminé !
