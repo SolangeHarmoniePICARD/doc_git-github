@@ -187,6 +187,16 @@
 
 Consultez [GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+- `git init` : initialise un dépôt GIT dans le dossier où la commande est exécuté
+- `git clone [url]` : télécharge un dépôt depuis GitHub ou un GitLab
+- `git add nom-du-fichier` : ajoute le fichier adans son état actuel pour qu'il soit versionné au prochain *commit*
+- `git branch -M main` : force l'utilisation de `main` comme branche principale
+- `git branch nom-de-la-branche` : crée une nouvelle branche
+- `git checkout nom-de-la-branche` : se positionner sur la branche
+- `git merge nom-de-la-branche` : fusionne la branche nommée avec la branche sur laquelle vous êtes positionnés
+- `git commit -m "description du commit"` : versionne les fichiers qui ont été ajoutés
+- `git remote add origin [url]` : lie le dépôt local à un dépôt distant
+- `git push -u origin main` : actualise le dépôt en ligne en fonction de ce qu'il y a sur le dépôt local
 
 
 
