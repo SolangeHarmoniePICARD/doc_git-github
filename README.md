@@ -165,3 +165,28 @@
 
 
 - 🎉 C'est terminé !
+
+# Les commandes BASH, GIT et Github
+
+## Les commandes BASH 
+
+- `ls` : liste le contenu d'un répertoire
+  - `ls -a` : liste **tout** le contenu d'un répertoire, y compris les fichiers cachés
+- `cd` + `chemin/vers/un/dossier` : *change directory*, pour changer de répertoire
+  - `cd .. ` : remonter au répertoire parent
+- `mkdir` + `nom-du-dossier` : créer un nouveau dossier
+- `touch` + `nom-du-fichier` : créer un nouveau fichier
+- `rm` + `nom-du-fichier` : supprime le fichier
+  - `rm -rf` + `nom-du-dossier` : supprime le dossier
+- `cp nom-du-fichier nom-de-la-copie` : copie un fichier
+  - `cp -R nom-du-dossier nom-de-la-copie` : copie un dossier
+- `mv nom-du-fichier chemin/de/la/destination` : déplace un fichier
+  - `mv -R nom-du-dossier chemin/de/la/destination` : déplace un dossier
+
+## Les commandes GIT & GitHub
+
+Consultez [GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+
+
+
